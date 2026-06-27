@@ -5,34 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c6fc2c6-582e-46a4-a0a0-199268338845" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_gui/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_gui/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_gui/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_gui/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_gui/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_gui/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_gui/file_organizer_gui.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_gui/generated-c398ebfba63500c115c6297269030d9ba6f293fae4333283b7662ce7cebfe48d.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_gui/warn-file_organizer_gui.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_gui/xref-file_organizer_gui.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_select_folder/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_select_folder/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_select_folder/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_select_folder/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_select_folder/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_select_folder/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_select_folder/file_organizer_select_folder.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_select_folder/generated-c398ebfba63500c115c6297269030d9ba6f293fae4333283b7662ce7cebfe48d.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_select_folder/warn-file_organizer_select_folder.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/file_organizer_select_folder/xref-file_organizer_select_folder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/file_organizer_gui.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_organizer_gui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_organizer_gui.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_organizer_select_folder.spec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/File_Organizer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/File_Organizer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,16 +26,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.file_organizer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_organizer_gui.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_organizer_select_folder.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.file_organizer.executor": "Run",
+    "Python.file_organizer_gui.executor": "Run",
+    "Python.file_organizer_select_folder.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.file_organizer">
     <configuration name="file_organizer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="File_Organizer" />
